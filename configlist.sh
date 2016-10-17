@@ -1,0 +1,27 @@
+#!/bin/bash
+wget http://slicershare.com/wp-content/uploads/slicerfiles/4876.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/7143.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/6450.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/4517.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/1325.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/6890.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/4861.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/1218.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/7338.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/6306.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/6254.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/8413.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/6515.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/8119.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/8175.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/3631.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/8109.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/8786.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/2188.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/5212.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/7458.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/3774.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/7192.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/1440.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/9787.ini
+wget http://slicershare.com/wp-content/uploads/slicerfiles/7273.ini

@@ -1,0 +1,27 @@
+#!/bin/bash
+./convert2json.sh ./1218.ini
+./convert2json.sh ./1325.ini
+./convert2json.sh ./1440.ini
+./convert2json.sh ./2188.ini
+./convert2json.sh ./3631.ini
+./convert2json.sh ./3774.ini
+./convert2json.sh ./4517.ini
+./convert2json.sh ./4861.ini
+./convert2json.sh ./4876.ini
+./convert2json.sh ./5212.ini
+./convert2json.sh ./6254.ini
+./convert2json.sh ./6306.ini
+./convert2json.sh ./6450.ini
+./convert2json.sh ./6515.ini
+./convert2json.sh ./6890.ini
+./convert2json.sh ./7143.ini
+./convert2json.sh ./7192.ini
+./convert2json.sh ./7273.ini
+./convert2json.sh ./7338.ini
+./convert2json.sh ./7458.ini
+./convert2json.sh ./8109.ini
+./convert2json.sh ./8119.ini
+./convert2json.sh ./8175.ini
+./convert2json.sh ./8413.ini
+./convert2json.sh ./8786.ini
+./convert2json.sh ./9787.ini
